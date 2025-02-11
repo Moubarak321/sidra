@@ -50,6 +50,7 @@
     "react-day-picker": "^9.5.1",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.51.0",
+    "recharts": "^2.15.1",
     "rimraf": "^6.0.1",
     "sonner": "^1.4.3",
     "tailwind-merge": "^2.2.1",
