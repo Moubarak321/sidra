@@ -12,13 +12,14 @@ const fadeInUp = {
   animate: { opacity: 1, y: 0 },
   transition: { duration: 0.5 }
 };
-
+console.log("NODE_ENV:", process.env.NODE_ENV);
 const staggerChildren = {
   animate: {
     transition: {
       staggerChildren: 0.1
     }
   }
+  
 };
 
 export default function Home() {
