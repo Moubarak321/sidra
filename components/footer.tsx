@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Heart } from "lucide-react";
+import Image from "next/image";
 
 const Footer = () => {
   return (
@@ -9,9 +9,16 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <Link href="/" className="flex items-center space-x-2">
-              <Heart className="h-6 w-6 text-primary" />
-              <span className="text-lg font-bold">Ensemble Pour Demain</span>
+            {/* Conteneur pour l'image et le texte */}
+            <Link href="/" className="flex items-center space-x-0 space-y-0">
+              <Image
+                src="https://github.com/Moubarak321/sidra/blob/main/logo.png?raw=true"
+                alt="Logo Sidra"
+                width={80} // Largeur de l'image
+                height={80} // Hauteur de l'image
+                className="object-cover " // Assure que l'image conserve ses proportions
+              />
+              {/* <span className="text-2xl font-bold">Sidra</span> */}
             </Link>
             <p className="mt-4 text-sm text-muted-foreground">
               Association caritative dédiée à la construction d&apos;un avenir meilleur

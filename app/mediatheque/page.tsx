@@ -15,16 +15,16 @@ const photos = [
     date: "Février 2024",
     image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2069",
   },
-  {
-    title: "Construction de logements",
-    date: "Janvier 2024",
-    image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=2073",
-  },
-  {
-    title: "Plantation d'arbres",
-    date: "Décembre 2023",
-    image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=2013",
-  },
+  // {
+  //   title: "Construction de logements",
+  //   date: "Janvier 2024",
+  //   image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=2073",
+  // },
+  // {
+  //   title: "Plantation d'arbres",
+  //   date: "Décembre 2023",
+  //   image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=2013",
+  // },
 ];
 
 const videos = [

@@ -6,7 +6,7 @@
 //     ignoreDuringBuilds: true,
 //   },
 //   images: { 
-//     domains: ['images.unsplash.com'],
+//     domains: ['images.unsplash.com','github.com'],
 //     // Désactivé pour permettre la prévisualisation en développement
 //     // unoptimized: true 
 //   },
@@ -26,6 +26,13 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'images.unsplash.com',
+        // Optionnel : définir un port ou un chemin spécifique
+        // port: '',
+        // pathname: '/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'github.com',
         // Optionnel : définir un port ou un chemin spécifique
         // port: '',
         // pathname: '/**',

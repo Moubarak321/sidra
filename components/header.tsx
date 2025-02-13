@@ -148,13 +148,14 @@ const Header = () => {
             <Link href="/" className="flex items-center space-x-2">
               {/* Remplace l'icône Heart par une image */}
               <Image
-                src="/logo.png" // Chemin de l'image dans le dossier public
+                src="https://github.com/Moubarak321/sidra/blob/main/logo.png?raw=true" // Chemin de l'image dans le dossier public
+                // https://github.com/Moubarak321/sidra/blob/main/logo2.png?raw=true
                 alt="Logo Sidra" // Texte alternatif pour l'accessibilité
-                width={32} // Largeur de l'image
-                height={32} // Hauteur de l'image
-                className="h-8 w-8" // Classes CSS pour le style
+                width={75} // Largeur de l'image
+                height={75} // Hauteur de l'image
+                // className="h-8 w-8" // Classes CSS pour le style
               />
-              <span className="text-xl font-bold">Sidra</span>
+              {/* <span className="text-xl font-bold">Sidra</span> */}
             </Link>
           </motion.div>
 
