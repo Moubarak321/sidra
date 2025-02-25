@@ -12,7 +12,7 @@ const Footer = () => {
             {/* Conteneur pour l'image et le texte */}
             <Link href="/" className="flex items-center space-x-0 space-y-0">
               <Image
-                src="https://github.com/Moubarak321/sidra/blob/main/logo.png?raw=true"
+                src="https://github.com/Moubarak321/sidra/blob/main/images/logo.png?raw=true"
                 alt="Logo Sidra"
                 width={80} // Largeur de l'image
                 height={80} // Hauteur de l'image

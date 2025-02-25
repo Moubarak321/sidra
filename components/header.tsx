@@ -148,7 +148,7 @@ const Header = () => {
             <Link href="/" className="flex items-center space-x-2">
               {/* Remplace l'icône Heart par une image */}
               <Image
-                src="https://github.com/Moubarak321/sidra/blob/main/logo.png?raw=true" // Chemin de l'image dans le dossier public
+                src="https://github.com/Moubarak321/sidra/blob/main/images/logo.png?raw=true" // Chemin de l'image dans le dossier public
                 // https://github.com/Moubarak321/sidra/blob/main/logo2.png?raw=true
                 alt="Logo Sidra" // Texte alternatif pour l'accessibilité
                 width={75} // Largeur de l'image
