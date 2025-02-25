@@ -19,12 +19,12 @@ const actions = [
     image: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2069",
     icon: School
   },
-  // {
-  //   title: "Logement",
-  //   description: "Aide au logement et hébergement d'urgence pour les sans-abri",
-  //   image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=2073",
-  //   icon: Home
-  // },
+  {
+    title: "Charité spécial Ramadan 2025 ",
+    description: "Soutenez les jeunes démunis pendant le mois de ramadan par vos contributions et dons",
+    image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=2073",
+    icon: Home
+  },
   // {
   //   title: "Environnement",
   //   description: "Projets écologiques et sensibilisation à la protection de l'environnement",
