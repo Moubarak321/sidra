@@ -129,6 +129,7 @@ const Header = () => {
     { name: "Nos Actions", href: "/actions" },
     { name: "Médiathèque", href: "/mediatheque" },
     { name: "Contact", href: "/contact" },
+    { name: "Notre équipe", href: "/equipe" },
   ];
 
   return (
