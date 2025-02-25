@@ -284,8 +284,8 @@ export default function ContactPage() {
               <div>
                 <h3 className="font-semibold mb-2">Adresse</h3>
                 <p className="text-muted-foreground">
-                  123 Rue de la Solidarité<br />
-                  75001 Paris, France
+                  Akpakpa Dégakon C-651<br />
+                  Cotonou , Bénin
                 </p>
               </div>
             </div>
@@ -297,7 +297,7 @@ export default function ContactPage() {
               <div>
                 <h3 className="font-semibold mb-2">Email</h3>
                 <p className="text-muted-foreground">
-                  contact@ensemblepourdemain.org
+                  ongsidra@gmail.com
                 </p>
               </div>
             </div>
@@ -309,7 +309,7 @@ export default function ContactPage() {
               <div>
                 <h3 className="font-semibold mb-2">Téléphone</h3>
                 <p className="text-muted-foreground">
-                  +33 (0)1 23 45 67 89
+                +1 (215) 909-2964 | +229 01 52 72 70 70 
                 </p>
               </div>
             </div>

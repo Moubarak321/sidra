@@ -57,8 +57,9 @@ const Footer = () => {
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li>123 Rue de la Solidarité</li>
               <li>75001 Paris, France</li>
-              <li>contact@ensemblepourdemain.org</li>
-              <li>+33 (0)1 23 45 67 89</li>
+              <li>ongsidra@gmail.com</li>
+              <li>+229 01 52 72 70 70</li>
+              <li>+1 (215) 909-2964</li>
             </ul>
           </div>
         </div>
